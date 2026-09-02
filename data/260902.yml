@@ -1,0 +1,59 @@
+about:
+  description: ✨多agent实现全自动AI小说生成
+  license: Apache-2.0
+  homepage: 
+  head: ac1495e
+  archived: false
+  latestVersion: v0.7.8
+  collectedAt: 2026-09-02T04:55:53Z
+timeline:
+  created: 2026-03-07
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-02
+popularity:
+  star: 1898
+  watcher: 7
+  fork: 391
+  release: 32
+  contributor: 7
+  pullRequest: 15
+  issue: 94
+language:
+  Go: 2432877
+  Python: 5275
+  Shell: 3895
+  Dockerfile: 501
+totalLine: 2442548
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 3
+    mergedPR: 1
+    openPR: 4
+    closedIssue: 7
+    openIssue: 6
+    commit: 17
+  last90d:
+    since: 2026-06-04
+    release: 22
+    mergedPR: 10
+    openPR: 6
+    closedIssue: 59
+    openIssue: 14
+    commit: 114
+  last180d:
+    since: 2026-03-06
+    release: 32
+    mergedPR: 12
+    openPR: 6
+    closedIssue: 78
+    openIssue: 16
+    commit: 271
+  last360d:
+    since: 2025-09-07
+    release: 32
+    mergedPR: 12
+    openPR: 6
+    closedIssue: 78
+    openIssue: 16
+    commit: 275
