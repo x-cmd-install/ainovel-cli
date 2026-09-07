@@ -5,19 +5,19 @@ about:
   head: fc17855
   archived: false
   latestVersion: "v0.7.9"
-  collectedAt: 2026-09-07T06:04:17Z
+  collectedAt: 2026-09-07T18:23:38Z
 timeline:
   created: 2026-03-07
   lastCommit: 2026-09-06
   lastRelease: 2026-09-04
 popularity:
-  star: 1934
+  star: 1938
   watcher: 7
-  fork: 400
+  fork: 399
   release: 33
   contributor: 7
   pullRequest: 27
-  issue: 95
+  issue: 96
 language:
   Go: 2449004
   Python: 5275
@@ -31,7 +31,7 @@ recent:
     mergedPR: 1
     openPR: 1
     closedIssue: 5
-    openIssue: 6
+    openIssue: 7
     commit: 20
   last60d:
     since: 2026-07-09
@@ -39,7 +39,7 @@ recent:
     mergedPR: 6
     openPR: 2
     closedIssue: 17
-    openIssue: 9
+    openIssue: 10
     commit: 56
   last90d:
     since: 2026-06-09
@@ -47,7 +47,7 @@ recent:
     mergedPR: 9
     openPR: 3
     closedIssue: 49
-    openIssue: 15
+    openIssue: 16
     commit: 109
   last180d:
     since: 2026-03-11
@@ -55,7 +55,7 @@ recent:
     mergedPR: 12
     openPR: 3
     closedIssue: 78
-    openIssue: 17
+    openIssue: 18
     commit: 268
   last360d:
     since: 2025-09-12
@@ -63,7 +63,7 @@ recent:
     mergedPR: 12
     openPR: 3
     closedIssue: 78
-    openIssue: 17
+    openIssue: 18
     commit: 282
   last720d:
     since: 2024-09-17
@@ -71,18 +71,18 @@ recent:
     mergedPR: 12
     openPR: 3
     closedIssue: 78
-    openIssue: 17
+    openIssue: 18
     commit: 298
 total:
   release: 33
   mergedPR: 12
   openPR: 3
   closedIssue: 78
-  openIssue: 17
+  openIssue: 18
   commit: 298
 ---
 path: /home/runner/.x-repo/github.com/voocel/ainovel-cli
-collectedAt: 2026-09-07T06:04:22Z
+collectedAt: 2026-09-07T18:23:40Z
 loc:
   Go:
     code: 62487
@@ -128,7 +128,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:04:23+00:00
+  collectedAt: 2026-09-07T18:23:41+00:00
   platform:
     darwin/arm64:
       name:  ainovel-cli_0.7.9_Darwin_arm64.tar.gz
