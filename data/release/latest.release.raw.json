@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5893250,
       "digest": "sha256:8677a43c63a1a3a8634d45735cc09230aac8aa7b701def81e95e741e3e1e960b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-04T02:44:12Z",
       "updated_at": "2026-09-04T02:44:13Z",
       "browser_download_url": "https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5912388,
       "digest": "sha256:c0e28e83941532300efc803519bc667f884173a7566ca26d6c7e67df5a76c360",
-      "download_count": 76,
+      "download_count": 79,
       "created_at": "2026-09-04T02:44:12Z",
       "updated_at": "2026-09-04T02:44:13Z",
       "browser_download_url": "https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_x86_64.zip"
