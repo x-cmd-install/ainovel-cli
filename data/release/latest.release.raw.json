@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5448409,
       "digest": "sha256:dc38142b35c5f4e2e1943d8cd7059c32dc0742c6e2dda328db52ee37c6ca7227",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-09-04T02:44:13Z",
       "updated_at": "2026-09-04T02:44:14Z",
       "browser_download_url": "https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5803353,
       "digest": "sha256:bdcdf4d72e7cf579e9aa814c2d21ac19cc9619e9a5adb85f3a7edbcf3eab0efd",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-09-04T02:44:13Z",
       "updated_at": "2026-09-04T02:44:14Z",
       "browser_download_url": "https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Linux_x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5298339,
       "digest": "sha256:3f160b185c3b2fdae0c86ce9335f508060eb49d4d3a3cae0bfe4649e9975131e",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-04T02:44:12Z",
       "updated_at": "2026-09-04T02:44:13Z",
       "browser_download_url": "https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5912388,
       "digest": "sha256:c0e28e83941532300efc803519bc667f884173a7566ca26d6c7e67df5a76c360",
-      "download_count": 109,
+      "download_count": 124,
       "created_at": "2026-09-04T02:44:12Z",
       "updated_at": "2026-09-04T02:44:13Z",
       "browser_download_url": "https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_x86_64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 621,
       "digest": "sha256:d9e4515e198f342e409daeb0e14cea0c9f0b4b35fde6f414894bf8f5fc53ed52",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-09-04T02:44:13Z",
       "updated_at": "2026-09-04T02:44:13Z",
       "browser_download_url": "https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_checksums.txt"
