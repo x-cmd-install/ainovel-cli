@@ -4,7 +4,7 @@
 
 ✨多agent实现全自动AI小说生成
 
-![ainovel-cli](https://repo.x-cmd.io/ainovel-cli.svg)
+![ainovel-cli](https://repo.x-cmd.io/ainovel-cli.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install ainovel-cli
 - **最新版本**: `v0.7.9` (2026-09-04)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-09-04T02:41:32Z
 
 ## 流行度
 
-- **Star**: 1,964 · **Fork**: 402 · **开放 issue**: 97 · **贡献者**: 7
+- **Star**: 1,969 · **Fork**: 404 · **开放 issue**: 97 · **贡献者**: 7
 
 ## 累计统计
 
@@ -52,6 +51,18 @@ x install ainovel-cli
 | Json | 54 | 0 | 0 | 3 |
 | Dockerfile | 19 | 0 | 11 | 1 |
 
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ainovel-cli_0.7.9_Darwin_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_arm64.tar.gz) | 5.2 MiB | `native/darwin/arm64` |
+| [ainovel-cli_0.7.9_Darwin_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_x86_64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
+| [ainovel-cli_0.7.9_Linux_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Linux_arm64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
+| [ainovel-cli_0.7.9_Linux_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Linux_x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [ainovel-cli_0.7.9_Windows_arm64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_arm64.zip) | 5.1 MiB | `native/win/arm64` |
+| [ainovel-cli_0.7.9_Windows_x86_64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_x86_64.zip) | 5.6 MiB | `native/win/x64` |
+| [ainovel-cli_checksums.txt](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_checksums.txt) | 621 B | `other` |
+
 ## 改进这些数据
 
 ainovel-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `ainovel-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -61,4 +72,4 @@ ainovel-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:06:50Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:27:48Z._

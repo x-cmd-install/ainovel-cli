@@ -22,11 +22,10 @@ x install ainovel-cli
 - **Latest**: `v0.7.9` (2026-09-04)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 7
-- **Published**: 2026-09-04T02:41:32Z
 
 ## Popularity
 
-- **Stars**: 1,964 · **Forks**: 402 · **Open issues**: 97 · **Contributors**: 7
+- **Stars**: 1,969 · **Forks**: 404 · **Open issues**: 97 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -52,13 +51,25 @@ Total: **62,796** lines of code across **330** files in the top 5 languages.
 | Json | 54 | 0 | 0 | 3 |
 | Dockerfile | 19 | 0 | 11 | 1 |
 
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ainovel-cli_0.7.9_Darwin_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_arm64.tar.gz) | 5.2 MiB | `native/darwin/arm64` |
+| [ainovel-cli_0.7.9_Darwin_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_x86_64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
+| [ainovel-cli_0.7.9_Linux_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Linux_arm64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
+| [ainovel-cli_0.7.9_Linux_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Linux_x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [ainovel-cli_0.7.9_Windows_arm64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_arm64.zip) | 5.1 MiB | `native/win/arm64` |
+| [ainovel-cli_0.7.9_Windows_x86_64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_x86_64.zip) | 5.6 MiB | `native/win/x64` |
+| [ainovel-cli_checksums.txt](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_checksums.txt) | 621 B | `other` |
+
 ## Improve this data
 
 Install metadata for ainovel-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ainovel-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ainovel-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ainovel-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:06:50Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T18:27:47Z._
