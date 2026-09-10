@@ -12,6 +12,18 @@
 x install ainovel-cli
 ```
 
+## Code insight
+
+Total: **62,796** lines of code across **330** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 62,487 | 4,615 | 5,833 | 324 |
+| Python | 128 | 3 | 31 | 1 |
+| Sh | 98 | 8 | 18 | 1 |
+| Json | 54 | 0 | 0 | 3 |
+| Dockerfile | 19 | 0 | 11 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/voocel/ainovel-cli>
@@ -36,20 +48,11 @@ x install ainovel-cli
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 4 | 1 | 1 | 6 | 7 | 20 |
+| last60d | 2026-07-12 | 10 | 6 | 2 | 17 | 10 | 56 |
 | 90d | 2026-06-12 | 20 | 9 | 3 | 49 | 16 | 109 |
+| last180d | 2026-03-14 | 33 | 12 | 3 | 79 | 18 | 268 |
 | 360d | 2025-09-15 | 33 | 12 | 3 | 79 | 18 | 282 |
-
-## Code size
-
-Total: **62,796** lines of code across **330** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 62,487 | 4,615 | 5,833 | 324 |
-| Python | 128 | 3 | 31 | 1 |
-| Sh | 98 | 8 | 18 | 1 |
-| Json | 54 | 0 | 0 | 3 |
-| Dockerfile | 19 | 0 | 11 | 1 |
+| last720d | 2024-09-20 | 33 | 12 | 3 | 79 | 18 | 298 |
 
 ## Release assets
 
@@ -72,4 +75,4 @@ Install metadata for ainovel-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:27:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:39:24Z._
