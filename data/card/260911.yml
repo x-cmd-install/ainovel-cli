@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.7.9"
   latestRelease: "v0.7.9"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:03:32Z
+  collectedAt: 2026-09-11T18:50:23Z
 timeline:
   created: 2026-03-07
   lastCommit: 2026-09-06
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 1971
+  star: 1975
   watcher: 7
-  fork: 405
+  fork: 406
   release: 33
   contributor: 7
   pullRequest: 27
@@ -86,7 +86,7 @@ total:
   commit: 298
 ---
 path: /home/runner/.x-repo/github.com/voocel/ainovel-cli
-collectedAt: 2026-09-11T06:03:34Z
+collectedAt: 2026-09-11T18:50:26Z
 loc:
   Go:
     code: 62487
