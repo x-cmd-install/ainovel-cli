@@ -4,7 +4,7 @@
 
 ✨多agent实现全自动AI小说生成
 
-![ainovel-cli](https://repo.x-cmd.io/ainovel-cli.svg?lang=zh)
+[![x-cmd/install — ainovel-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ainovel-cli.svg?lang=zh)](https://x-cmd.com/install/ainovel-cli)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install ainovel-cli
 
 ## 流行度
 
-- **Star**: 2,015 · **Fork**: 411 · **开放 issue**: 98 · **贡献者**: 7
+- **Star**: 2,027 · **Fork**: 411 · **开放 issue**: 99 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 12 · **开放 PR**: 3 · **已关闭 issue**: 83 · **开放 issue**: 15 · **提交数**: 298
+- **发布数**: 33 · **已合并 PR**: 12 · **开放 PR**: 3 · **已关闭 issue**: 83 · **开放 issue**: 16 · **提交数**: 298
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 1 | 1 | 6 | 4 | 12 |
-| last60d | 2026-07-20 | 6 | 1 | 1 | 18 | 6 | 37 |
-| 90d | 2026-06-20 | 18 | 8 | 3 | 48 | 12 | 91 |
-| last180d | 2026-03-22 | 33 | 12 | 3 | 82 | 15 | 256 |
-| 360d | 2025-09-23 | 33 | 12 | 3 | 83 | 15 | 282 |
-| last720d | 2024-09-28 | 33 | 12 | 3 | 83 | 15 | 298 |
+| 30d | 2026-08-21 | 3 | 1 | 1 | 6 | 5 | 12 |
+| last60d | 2026-07-22 | 6 | 1 | 1 | 18 | 7 | 37 |
+| 90d | 2026-06-22 | 17 | 8 | 3 | 46 | 13 | 91 |
+| last180d | 2026-03-24 | 32 | 12 | 3 | 82 | 16 | 256 |
+| 360d | 2025-09-25 | 33 | 12 | 3 | 83 | 16 | 282 |
+| last720d | 2024-09-30 | 33 | 12 | 3 | 83 | 16 | 298 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ ainovel-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:21:17Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:11:58Z._

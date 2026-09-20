@@ -4,7 +4,7 @@
 
 ✨多agent实现全自动AI小说生成
 
-![ainovel-cli](https://repo.x-cmd.io/ainovel-cli.svg)
+[![x-cmd/install — ainovel-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ainovel-cli.svg)](https://x-cmd.com/install/ainovel-cli)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **62,796** lines of code across **330** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,015 · **Forks**: 411 · **Open issues**: 98 · **Contributors**: 7
+- **Stars**: 2,027 · **Forks**: 411 · **Open issues**: 99 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 12 · **Open PRs**: 3 · **Closed issues**: 83 · **Open issues**: 15 · **Commits**: 298
+- **Releases**: 33 · **Merged PRs**: 12 · **Open PRs**: 3 · **Closed issues**: 83 · **Open issues**: 16 · **Commits**: 298
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 1 | 1 | 6 | 4 | 12 |
-| last60d | 2026-07-20 | 6 | 1 | 1 | 18 | 6 | 37 |
-| 90d | 2026-06-20 | 18 | 8 | 3 | 48 | 12 | 91 |
-| last180d | 2026-03-22 | 33 | 12 | 3 | 82 | 15 | 256 |
-| 360d | 2025-09-23 | 33 | 12 | 3 | 83 | 15 | 282 |
-| last720d | 2024-09-28 | 33 | 12 | 3 | 83 | 15 | 298 |
+| 30d | 2026-08-21 | 3 | 1 | 1 | 6 | 5 | 12 |
+| last60d | 2026-07-22 | 6 | 1 | 1 | 18 | 7 | 37 |
+| 90d | 2026-06-22 | 17 | 8 | 3 | 46 | 13 | 91 |
+| last180d | 2026-03-24 | 32 | 12 | 3 | 82 | 16 | 256 |
+| 360d | 2025-09-25 | 33 | 12 | 3 | 83 | 16 | 282 |
+| last720d | 2024-09-30 | 33 | 12 | 3 | 83 | 16 | 298 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for ainovel-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:21:16Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:11:57Z._
