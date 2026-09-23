@@ -4,7 +4,7 @@
 
 ✨多agent实现全自动AI小说生成
 
-[![x-cmd/install — ainovel-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ainovel-cli.svg)](https://x-cmd.com/install/ainovel-cli)
+[![x-cmd/install — ainovel-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ainovel-cli.svg)](https://x-cmd.com/install/ainovel-cli)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **62,564** lines of code across **330** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,043 · **Forks**: 415 · **Open issues**: 99 · **Contributors**: 7
+- **Stars**: 2,047 · **Forks**: 418 · **Open issues**: 99 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 12 · **Open PRs**: 3 · **Closed issues**: 83 · **Open issues**: 16 · **Commits**: 300
+- **Releases**: 33 · **Merged PRs**: 12 · **Open PRs**: 4 · **Closed issues**: 83 · **Open issues**: 16 · **Commits**: 300
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 1 | 1 | 6 | 4 | 13 |
-| last60d | 2026-07-24 | 6 | 1 | 1 | 17 | 7 | 34 |
-| 90d | 2026-06-24 | 17 | 8 | 2 | 44 | 13 | 82 |
-| last180d | 2026-03-26 | 32 | 12 | 3 | 82 | 16 | 250 |
-| 360d | 2025-09-27 | 33 | 12 | 3 | 83 | 16 | 284 |
-| last720d | 2024-10-02 | 33 | 12 | 3 | 83 | 16 | 300 |
+| 30d | 2026-08-24 | 3 | 1 | 2 | 6 | 4 | 13 |
+| last60d | 2026-07-25 | 6 | 1 | 2 | 17 | 7 | 34 |
+| 90d | 2026-06-25 | 17 | 8 | 3 | 44 | 13 | 82 |
+| last180d | 2026-03-27 | 31 | 12 | 4 | 82 | 16 | 250 |
+| 360d | 2025-09-28 | 33 | 12 | 4 | 83 | 16 | 284 |
+| last720d | 2024-10-03 | 33 | 12 | 4 | 83 | 16 | 300 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for ainovel-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:19:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:33:08Z._
