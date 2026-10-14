@@ -37,22 +37,22 @@ Total: **62,664** lines of code across **331** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,155 · **Forks**: 438 · **Open issues**: 106 · **Contributors**: 8
+- **Stars**: 2,162 · **Forks**: 440 · **Open issues**: 107 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 13 · **Open PRs**: 3 · **Closed issues**: 84 · **Open issues**: 22 · **Commits**: 303
+- **Releases**: 33 · **Merged PRs**: 13 · **Open PRs**: 3 · **Closed issues**: 84 · **Open issues**: 23 · **Commits**: 303
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 1 | 0 | 1 | 8 | 4 |
-| last60d | 2026-08-14 | 4 | 2 | 1 | 10 | 11 | 17 |
-| 90d | 2026-07-15 | 9 | 4 | 2 | 19 | 14 | 42 |
-| last180d | 2026-04-16 | 29 | 13 | 3 | 79 | 22 | 206 |
-| 360d | 2025-10-18 | 33 | 13 | 3 | 84 | 22 | 286 |
-| last720d | 2024-10-23 | 33 | 13 | 3 | 84 | 22 | 303 |
+| 30d | 2026-09-14 | 0 | 1 | 0 | 1 | 8 | 4 |
+| last60d | 2026-08-15 | 4 | 2 | 1 | 10 | 12 | 17 |
+| 90d | 2026-07-16 | 8 | 2 | 2 | 19 | 14 | 42 |
+| last180d | 2026-04-17 | 29 | 13 | 3 | 79 | 23 | 206 |
+| 360d | 2025-10-19 | 33 | 13 | 3 | 84 | 23 | 286 |
+| last720d | 2024-10-24 | 33 | 13 | 3 | 84 | 23 | 303 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for ainovel-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:09:15Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:01:30Z._
