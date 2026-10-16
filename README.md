@@ -14,11 +14,11 @@ x install ainovel-cli
 
 ## Code insight
 
-Total: **62,664** lines of code across **331** files in the top 5 languages.
+Total: **62,689** lines of code across **331** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 62,355 | 4,623 | 5,833 | 325 |
+| Go | 62,380 | 4,635 | 5,839 | 325 |
 | Python | 128 | 3 | 31 | 1 |
 | Sh | 98 | 8 | 18 | 1 |
 | Json | 54 | 0 | 0 | 3 |
@@ -31,40 +31,40 @@ Total: **62,664** lines of code across **331** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.7.9` (2026-09-04)
-- **Last commit**: 2026-09-26
+- **Latest**: `v0.7.10` (2026-10-15)
+- **Last commit**: 2026-10-15
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 2,168 · **Forks**: 442 · **Open issues**: 108 · **Contributors**: 8
+- **Stars**: 2,178 · **Forks**: 442 · **Open issues**: 108 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 13 · **Open PRs**: 3 · **Closed issues**: 84 · **Open issues**: 24 · **Commits**: 303
+- **Releases**: 34 · **Merged PRs**: 13 · **Open PRs**: 3 · **Closed issues**: 85 · **Open issues**: 23 · **Commits**: 304
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 1 | 0 | 1 | 9 | 4 |
-| last60d | 2026-08-16 | 4 | 2 | 1 | 9 | 13 | 17 |
-| 90d | 2026-07-17 | 8 | 2 | 1 | 19 | 15 | 42 |
-| last180d | 2026-04-18 | 29 | 13 | 3 | 79 | 24 | 206 |
-| 360d | 2025-10-20 | 33 | 13 | 3 | 84 | 24 | 286 |
-| last720d | 2024-10-25 | 33 | 13 | 3 | 84 | 24 | 303 |
+| 30d | 2026-09-16 | 1 | 1 | 0 | 1 | 9 | 5 |
+| last60d | 2026-08-17 | 5 | 2 | 1 | 10 | 12 | 18 |
+| 90d | 2026-07-18 | 8 | 2 | 1 | 20 | 14 | 43 |
+| last180d | 2026-04-19 | 30 | 13 | 3 | 79 | 23 | 207 |
+| 360d | 2025-10-21 | 34 | 13 | 3 | 85 | 23 | 287 |
+| last720d | 2024-10-26 | 34 | 13 | 3 | 85 | 23 | 304 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ainovel-cli_0.7.9_Darwin_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_arm64.tar.gz) | 5.2 MiB | `native/darwin/arm64` |
-| [ainovel-cli_0.7.9_Darwin_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Darwin_x86_64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
-| [ainovel-cli_0.7.9_Linux_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Linux_arm64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
-| [ainovel-cli_0.7.9_Linux_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Linux_x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
-| [ainovel-cli_0.7.9_Windows_arm64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_arm64.zip) | 5.1 MiB | `native/win/arm64` |
-| [ainovel-cli_0.7.9_Windows_x86_64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_0.7.9_Windows_x86_64.zip) | 5.6 MiB | `native/win/x64` |
-| [ainovel-cli_checksums.txt](https://github.com/voocel/ainovel-cli/releases/download/v0.7.9/ainovel-cli_checksums.txt) | 621 B | `other` |
+| [ainovel-cli_0.7.10_Darwin_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.10/ainovel-cli_0.7.10_Darwin_arm64.tar.gz) | 5.2 MiB | `native/darwin/arm64` |
+| [ainovel-cli_0.7.10_Darwin_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.10/ainovel-cli_0.7.10_Darwin_x86_64.tar.gz) | 5.6 MiB | `native/darwin/x64` |
+| [ainovel-cli_0.7.10_Linux_arm64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.10/ainovel-cli_0.7.10_Linux_arm64.tar.gz) | 5.0 MiB | `native/linux/arm64` |
+| [ainovel-cli_0.7.10_Linux_x86_64.tar.gz](https://github.com/voocel/ainovel-cli/releases/download/v0.7.10/ainovel-cli_0.7.10_Linux_x86_64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [ainovel-cli_0.7.10_Windows_arm64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.10/ainovel-cli_0.7.10_Windows_arm64.zip) | 5.1 MiB | `native/win/arm64` |
+| [ainovel-cli_0.7.10_Windows_x86_64.zip](https://github.com/voocel/ainovel-cli/releases/download/v0.7.10/ainovel-cli_0.7.10_Windows_x86_64.zip) | 5.6 MiB | `native/win/x64` |
+| [ainovel-cli_checksums.txt](https://github.com/voocel/ainovel-cli/releases/download/v0.7.10/ainovel-cli_checksums.txt) | 627 B | `other` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for ainovel-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:39:26Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:41:36Z._
