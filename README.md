@@ -14,11 +14,11 @@ x install ainovel-cli
 
 ## Code insight
 
-Total: **62,689** lines of code across **331** files in the top 5 languages.
+Total: **62,815** lines of code across **333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 62,380 | 4,635 | 5,839 | 325 |
+| Go | 62,506 | 4,654 | 5,850 | 327 |
 | Python | 128 | 3 | 31 | 1 |
 | Sh | 98 | 8 | 18 | 1 |
 | Json | 54 | 0 | 0 | 3 |
@@ -32,27 +32,27 @@ Total: **62,689** lines of code across **331** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.10` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-11-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 2,287 · **Forks**: 462 · **Open issues**: 122 · **Contributors**: 8
+- **Stars**: 2,289 · **Forks**: 463 · **Open issues**: 122 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 13 · **Open PRs**: 5 · **Closed issues**: 94 · **Open issues**: 28 · **Commits**: 304
+- **Releases**: 34 · **Merged PRs**: 14 · **Open PRs**: 5 · **Closed issues**: 94 · **Open issues**: 28 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 0 | 2 | 3 | 15 | 1 |
-| last60d | 2026-09-08 | 1 | 1 | 2 | 10 | 16 | 5 |
-| 90d | 2026-08-09 | 5 | 2 | 3 | 20 | 18 | 26 |
-| last180d | 2026-05-11 | 26 | 13 | 5 | 86 | 28 | 166 |
-| 360d | 2025-11-12 | 34 | 13 | 5 | 94 | 28 | 287 |
-| last720d | 2024-11-17 | 34 | 13 | 5 | 94 | 28 | 304 |
+| 30d | 2026-10-09 | 1 | 1 | 2 | 3 | 14 | 3 |
+| last60d | 2026-09-09 | 1 | 2 | 2 | 9 | 16 | 8 |
+| 90d | 2026-08-10 | 5 | 3 | 3 | 20 | 18 | 22 |
+| last180d | 2026-05-12 | 26 | 14 | 5 | 86 | 28 | 165 |
+| 360d | 2025-11-13 | 34 | 14 | 5 | 94 | 28 | 290 |
+| last720d | 2024-11-18 | 34 | 14 | 5 | 94 | 28 | 308 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for ainovel-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:09:50Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:04:52Z._
